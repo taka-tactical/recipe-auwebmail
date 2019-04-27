@@ -1,0 +1,13 @@
+{
+  "id": "auwebmail",
+  "name": "au Web mail",
+  "version": "1.0.0",
+  "description": "au Web mail",
+  "main": "index.js",
+  "author": "Taka",
+  "license": "MIT",
+  "repository": "https://github.com/taka-tactical/recipe-auwebmail",
+  "config": {
+    "serviceURL": "https://mail.ezweb.ne.jp/g01b/index.php"
+  }
+}
