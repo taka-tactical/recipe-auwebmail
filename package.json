@@ -8,6 +8,7 @@
   "license": "MIT",
   "repository": "https://github.com/taka-tactical/recipe-auwebmail",
   "config": {
-    "serviceURL": "https://mail.ezweb.ne.jp/g01b/index.php"
+    "serviceURL": "https://mail.ezweb.ne.jp/g01b/index.php",
+    "hasNotificationSound": true
   }
 }
